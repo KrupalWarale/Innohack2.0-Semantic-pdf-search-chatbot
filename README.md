@@ -3,7 +3,7 @@
 
 
 > **National Level Hackathon Project**  
-> Built for **InnoHack** at VIT Pune, July 30-31, 2023
+> Built for **InnoHack** at VIT Pune, July 30-31, 2025
 
 ---
 
@@ -75,4 +75,5 @@ For queries, suggestions, or collaboration, open an issue or contact us at [your
 ---
 
 
-> _Proudly built in 24 hours for InnoHack 2023 at VIT Pune!_ 
+> _Proudly built in 24 hours for InnoHack 2025 at VIT Pune!_ 
+
