@@ -1,6 +1,6 @@
 # InnoHack 2023: Semantic Search & Advanced Document Chatbot
 
-![InnoHack Logo](https://vit.edu.in/images/vit_logo.png)
+
 
 > **National Level Hackathon Project**  
 > Built for **InnoHack** at VIT Pune, July 30-31, 2023
@@ -73,5 +73,6 @@ This project was developed as part of the prestigious **InnoHack National Level 
 For queries, suggestions, or collaboration, open an issue or contact us at [your-email@example.com].
 
 ---
+
 
 > _Proudly built in 24 hours for InnoHack 2023 at VIT Pune!_ 
